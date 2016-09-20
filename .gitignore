@@ -1,5 +1,5 @@
 ################## FE ######################################
-FE/.idea/*
+.idea/*
 
 FE/node_modules/*
 FE/bower_components/*
